@@ -17,6 +17,10 @@
   padding-left: 20px;
 }
 
+.hover:hover{
+  cursor: pointer;
+}
+
 div{
   box-sizing: border-box;
 }
